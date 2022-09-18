@@ -48,3 +48,51 @@ img {
     position: absolute;
     width: 100%;
 }
+
+.main_main {
+    padding-top: 200px;
+    background-image:url(../img/фон1стр.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-title {
+    color: aliceblue;
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    margin-bottom: 100px;
+    opacity: .9;
+}
+  
+.services_main {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: rgb(44, 42, 42);
+}
+
+.services-title_main {
+    max-width: 606px;
+    padding-bottom: 50px;
+}
+
+.services-list_main {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.services-subtitle_main{
+    padding-bottom: 5px;
+}
+
+.services-text_main{
+    color: rgba(136, 133, 133, .8);
+    text-indent: 20px;
+}
+
+.services-item_main {
+    list-style-type: none;
+}
+
