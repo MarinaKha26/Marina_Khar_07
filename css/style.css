@@ -127,4 +127,48 @@ img {
     margin: 50px;
 }
 
+.main_tour{
+    align-items: center;
+    background: linear-gradient( rgba(245, 247, 243, 0.9) 20%, rgba(253,163,41, .8) 90%);
+}
+
+.tour_content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tour_title {
+    background: rgba(233, 230, 230, 0.4);
+    color: rgba(116, 112, 112, 0.8);
+    max-width: 50%;
+    font-weight: 500;
+    font-size:1.2rem;
+    line-height: 1.2;
+    margin: 70px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tour_title_caption {
+    font-weight: 500;
+    font-size:2.5rem;
+    line-height: 1.2;
+    padding: 10px;
+    color: rgb(44, 42, 42);
+}
+
+.tour_img {
+    margin: 35px;
+    width: 40%;
+    background: rgba(243, 240, 240, .5);
+    border-radius: 10px; 
+    padding: 6px;
+}
+
+.tour_link {
+    color:rgba(247, 240, 240, .6);
+    margin-left: 820px;
+}
+
+
 
