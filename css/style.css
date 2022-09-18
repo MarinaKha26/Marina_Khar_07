@@ -96,3 +96,16 @@ img {
     list-style-type: none;
 }
 
+.footer_main {
+    background-color: rgb(224,106,58);
+    text-align: center;
+}
+
+.footer_main .conteiner_main {
+    padding-bottom: 10px;
+}
+
+.footer-contacts-main_link{
+    padding-right: 70px;
+}
+
