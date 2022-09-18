@@ -109,3 +109,22 @@ img {
     padding-right: 70px;
 }
 
+.header_tour {
+    background: url(../img/фон2стр.jpg) center no-repeat;
+    background-size: cover;
+    padding-bottom:430px;
+}
+
+.header_tour_title {
+    font:bold 2.5rem/1.222 'Lato';
+    color: aliceblue;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.header_tour_title p {
+    font-size: 2rem;
+    margin: 50px;
+}
+
+
