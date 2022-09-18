@@ -24,3 +24,27 @@ html {
     color: rgb(29, 28, 28);
     padding-top: 18px;
 }
+
+img {
+    max-width: 100%;
+}
+
+.link {
+    color: aliceblue;
+    opacity: .9;
+    position: relative;
+    top: -90px;
+    left: 500px;
+    font-weight: 400;
+}
+
+.conteiner_main {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-bottom: 86px;
+}
+
+.header_main {
+    position: absolute;
+    width: 100%;
+}
